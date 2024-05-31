@@ -57,7 +57,7 @@ const Sidebar = () => {
         <Link
           to={'/'}
           className='bg-primary flex p-4 justify-center items-center text-white w-full font-medium'>
-          Ver Carrito
+          Volver
         </Link>
       </div>
       {showAlert && <Alert message="Tu compra fue realizada. Este es tu número de orden." />}

@@ -1,0 +1,32 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Jordan 4 Retro Red Thunder",
+        "category": "Jordan",
+        "price": 400000,
+        "description": " Las Jordan 4 Red Thunder, que desatan una tormenta de estilo con su diseño rojo intenso y detalles en negro. Desde la cancha hasta las calles, estas zapatillas ofrecen un ajuste cómodo y un soporte superior para un rendimiento excepcional en cualquier situación.",
+        "image": "https://images.stockx.com/images/Air-Jordan-4-Retro-Red-Thunder-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1641394023",
+        "brand": "Nike"
+      },
+      {
+        "id": 2,
+        "title": "Jordan 4 Retro Black Cat (2020)",
+        "category": "Jordan",
+        "price": 800000,
+        "description": "Las Jordan 4 Black Cat encarnan la elegancia y la ferocidad con su diseño completamente negro, inspirado en la agilidad del felino negro. Su parte superior de cuero y malla proporciona durabilidad y transpirabilidad, mientras que la unidad Air-Sole en el talón brinda una amortiguación reactiva y confort durante todo el día.",
+        "image": "https://images.stockx.com/images/Air-Jordan-4-Retro-Black-Cat-2020-TD-Product.png?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1686755698",
+        "brand": "Nike"
+      },
+      {
+        "id": 3,
+        "title": "Jordan 4 Retro Thunder (2023)",
+        "category": "Jordan",
+        "price": 400000,
+        "description": "Las Jordan 4 Yellow Thunder irradian un resplandor audaz y enérgico con su vibrante combinación de amarillo relámpago y negro atemporal. Estas zapatillas destacan por su llamativa entresuela amarilla y detalles en contraste que capturan la esencia del trueno en cada paso.",
+        "image": "https://images.stockx.com/360/Air-Jordan-4-Retro-Thunder-2023/Images/Air-Jordan-4-Retro-Thunder-2023/Lv2/img01.jpg?fm=webp&auto=compress&w=480&dpr=2&updated_at=1680207753&h=320&q=60",
+        "brand": "Nike"
+      }
+    ]
+  }
+  

@@ -26,11 +26,9 @@ const ProductDetails = () => {
     <section className='pt-32 pb-12 lg:py-32 h-screen flex items-center'>
       <div className='container mx-auto'>
         <div className='flex flex-col lg:flex-row items-center'>
-          {/* image */}
           <div className='flex flex-1 justify-center items-center'>
             <img src={image} className='max-w-[200px] lg:max-w-sm' alt='' />
           </div>
-          {/* text */}
           <div className='flex-1 text-center lg:text-left'>
             <h1 className='text-[26px] font-medium mb-2 max-w-[450px] mx-auto lg:mx-0'>
               {title}
